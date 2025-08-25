@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: backend.navabdarveshalidevops.study
+    - host: threetier.navabdarveshali.xyz
       http:
         paths:
           - path: /api
